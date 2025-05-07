@@ -6,9 +6,10 @@ Key Points of the Project:
 Here's a breakdown of the key aspects you'll want to emphasize in your repository's README or further documentation:
 
 Objective: The primary goal is to perform sentiment analysis on a Kaggle text dataset.
-Task: The core task involves analyzing each text sample and assigning a sentiment label (positive, negative, neutral).
+
 Data Source: The project utilizes a text dataset specifically obtained from Kaggle.
-Methodology: The project follows a standard machine learning pipeline, encompassing:
+
+Methodology: The project follows a standard machine learning pipeline, encompassing: 
 Data Cleaning: Handling missing values, noise, and inconsistencies in the text data.
 Preprocessing: Steps like tokenization, stemming/lemmatization, and handling stop words to prepare the text for modeling.
 Feature Engineering: Transforming the text data into numerical features that machine learning models can understand (e.g., using techniques like TF-IDF, Bag of Words, or word embeddings).
