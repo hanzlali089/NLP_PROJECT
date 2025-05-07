@@ -10,10 +10,18 @@ Objective: The primary goal is to perform sentiment analysis on a Kaggle text da
 Data Source: The project utilizes a text dataset specifically obtained from Kaggle.
 
 Methodology: The project follows a standard machine learning pipeline, encompassing: 
+
 Data Cleaning: Handling missing values, noise, and inconsistencies in the text data.
+
 Preprocessing: Steps like tokenization, stemming/lemmatization, and handling stop words to prepare the text for modeling.
+
 Feature Engineering: Transforming the text data into numerical features that machine learning models can understand (e.g., using techniques like TF-IDF, Bag of Words, or word embeddings).
-Model Selection: Exploring and choosing appropriate machine learning models for text classification (e.g., Naive Bayes, Support Vector Machines, Logistic Regression, or potentially more advanced deep learning models).
+
+Model Selection: Exploring and choosing appropriate machine learning models for text classification (e.g., Naive Bayes, Support Vector Machines, 
+Logistic Regression, or potentially more advanced deep learning models).
+
 Evaluation: Assessing the performance of the trained model using relevant metrics (e.g., accuracy, precision, recall, F1-score).
+
 Implementation: The project is implemented using Python and likely utilizes popular libraries for data manipulation (Pandas), text processing (NLTK, spaCy), and machine learning (Scikit-learn, TensorFlow, or PyTorch).
+
 Reproducibility: The repository aims to provide a reproducible workflow, allowing others to understand, run, and potentially extend the analysis.
